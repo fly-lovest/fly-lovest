@@ -30,15 +30,15 @@ PS. 所参照的项目如若出现内容错误或运行问题，可在**出现�
 | 计算机通信与网络实践     | [fly-lovest/HUST-CS-Computer-Communication-and-Networking](https://github.com/fly-lovest/HUST-CS-Computer-Communication-and-Networking) |            |            |          |          |
 | 计算机组成原理           | [fly-lovest/HUST-CS-Principles-of-Computer-Composition](https://github.com/fly-lovest/HUST-CS-Principles-of-Computer-Composition) |            |            |          |          |
 | 计算机组成原理实验       | [fly-lovest/HUST-CS-Principles-of-Computer-Composition](https://github.com/fly-lovest/HUST-CS-Principles-of-Computer-Composition) |            |            |          |          |
-| 软件工程                 |                                                              |            |            |          |          |
-| 算法设计与分析           |                                                              |            |            |          |          |
+| 软件工程                 | [fly-lovest/HUST-CS-Software-Engineering](https://github.com/fly-lovest/HUST-CS-Software-Engineering) |     ❌      |     ❌      |    ✅     |    ❌     |
+| 算法设计与分析           | [fly-lovest/HUST-CS-Algorithm-design-and-analysis](https://github.com/fly-lovest/HUST-CS-Algorithm-design-and-analysis) |     ✅      |     ✅      |    ❌     |    ❌     |
 | 操作系统课程设计         |                                                              |            |            |          |          |
 | 硬件综合训练             |                                                              |            |            |          |          |
 | 编译原理                 | [fly-lovest/HUST-CS-Compilation-Principle](https://github.com/fly-lovest/HUST-CS-Compilation-Principle) |     ✅      |     ✅      |    ❌     |    ✅     |
 | 编译原理实验             | [fly-lovest/HUST-CS-Compilation-Principle](https://github.com/fly-lovest/HUST-CS-Compilation-Principle) |     ❌      |     ❌      |    ✅     |    ✅     |
 | 数据库系统原理           | [fly-lovest/HUST-CS-Database-system-principle](https://github.com/fly-lovest/HUST-CS-Database-system-principle) |     ✅      |     ✅      |    ❌     |    ❌     |
 | 数据库系统原理实践       | [fly-lovest/HUST-CS-Database-system-principle](https://github.com/fly-lovest/HUST-CS-Database-system-principle) |     ❌      |     ❌      |    ✅     |    ✅     |
-| 计算机系统结构           |                                                              |            |            |          |          |
+| 计算机系统结构           | [fly-lovest/HUST-CS-Computer-System-Architecture](https://github.com/fly-lovest/HUST-CS-Computer-System-Architecture) |     ✅      |     ✅      |    ✅     |    ❌     |
 | 系统能力培养综合实践——PA |                                                              |            |            |          |          |
 
 
