@@ -17,7 +17,7 @@ PS. 所参照的项目如若出现内容错误或运行问题，可在**出现�
 | 数据结构实验             | [fly-lovest/HUST-CS-Data-structure-experiment](https://github.com/fly-lovest/HUST-CS-Data-structure-experiment) |   ❌    |   ❌    |  ✅   |  ❌   |
 | 电路理论（五）           | [fly-lovest/HUST-CS-Circuit-Theory](https://github.com/fly-lovest/HUST-CS-Circuit-Theory) |   ✅    |   ❌    |  ✅   |  ❌   |
 | 模拟电子技术（二）       | [fly-lovest/HUST-CS-Analog-Electronics-Technology](https://github.com/fly-lovest/HUST-CS-Analog-Electronics-Technology) |   ✅    |   ✅    |  ❌   |  ❌   |
-| 程序设计综合课程设计     |                                                              |        |        |      |      |
+| 程序设计综合课程设计     | [fly-lovest/HUST-CS-Comprehensive-Programming-Course](https://github.com/fly-lovest/HUST-CS-Comprehensive-Programming-Course) |   ❌    |   ❌    |  ✅   |  ✅   |
 | 数字电路与逻辑设计（一） |                                                              |        |        |      |      |
 | 数字电路与逻辑设计实验   |                                                              |        |        |      |      |
 | 汇编语言程序设计         |                                                              |        |        |      |      |
@@ -33,8 +33,8 @@ PS. 所参照的项目如若出现内容错误或运行问题，可在**出现�
 | 算法设计与分析           |                                                              |        |        |      |      |
 | 操作系统课程设计         |                                                              |        |        |      |      |
 | 硬件综合训练             |                                                              |        |        |      |      |
-| 编译原理                 |                                                              |        |        |      |      |
-| 编译原理实验             |                                                              |        |        |      |      |
+| 编译原理                 | [fly-lovest/HUST-CS-Compilation-Principle](https://github.com/fly-lovest/HUST-CS-Compilation-Principle) |   ✅    |   ✅    |  ❌   |  ✅   |
+| 编译原理实验             | [fly-lovest/HUST-CS-Compilation-Principle](https://github.com/fly-lovest/HUST-CS-Compilation-Principle) |   ❌    |   ❌    |  ✅   |  ✅   |
 | 数据库系统原理           |                                                              |        |        |      |      |
 | 数据库系统原理实践       |                                                              |        |        |      |      |
 | 计算机系统结构           |                                                              |        |        |      |      |
