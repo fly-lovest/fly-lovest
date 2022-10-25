@@ -18,25 +18,25 @@ PS. 所参照的项目如若出现内容错误或运行问题，可在**出现�
 | 电路理论（五）           | [fly-lovest/HUST-CS-Circuit-Theory](https://github.com/fly-lovest/HUST-CS-Circuit-Theory) |   ✅    |   ❌    |  ✅   |  ❌   |
 | 模拟电子技术（二）       | [fly-lovest/HUST-CS-Analog-Electronics-Technology](https://github.com/fly-lovest/HUST-CS-Analog-Electronics-Technology) |   ✅    |   ✅    |  ❌   |  ❌   |
 | 程序设计综合课程设计     | [fly-lovest/HUST-CS-Comprehensive-Programming-Course](https://github.com/fly-lovest/HUST-CS-Comprehensive-Programming-Course) |   ❌    |   ❌    |  ✅   |  ✅   |
-| 数字电路与逻辑设计（一） |                                                              |        |        |      |      |
-| 数字电路与逻辑设计实验   |                                                              |        |        |      |      |
-| 汇编语言程序设计         |                                                              |        |        |      |      |
-| 汇编语言程序设计实践     |                                                              |        |        |      |      |
+| 数字电路与逻辑设计       | [fly-lovest/HUST-CS-Digital-Circuits-and-Logic-Design](https://github.com/fly-lovest/HUST-CS-Digital-Circuits-and-Logic-Design) |   ✅    |   ✅    |  ❌   |  ❌   |
+| 数字电路与逻辑设计实验   | [fly-lovest/HUST-CS-Digital-Circuits-and-Logic-Design](https://github.com/fly-lovest/HUST-CS-Digital-Circuits-and-Logic-Design) |   ❌    |   ❌    |  ✅   |  ❌   |
+| 汇编语言程序设计         | [fly-lovest/HUST-CS-Assembly-Language](https://github.com/fly-lovest/HUST-CS-Assembly-Language) |        |        |      |      |
+| 汇编语言程序设计实践     | [fly-lovest/HUST-CS-Assembly-Language](https://github.com/fly-lovest/HUST-CS-Assembly-Language) |        |        |      |      |
 | 信号与线性系统           |                                                              |        |        |      |      |
-| 操作系统原理             |                                                              |        |        |      |      |
-| 操作系统原理实验         |                                                              |        |        |      |      |
-| 计算机通信与网络         |                                                              |        |        |      |      |
-| 计算机通信与网络实践     |                                                              |        |        |      |      |
-| 计算机组成原理           |                                                              |        |        |      |      |
-| 计算机组成原理实验       |                                                              |        |        |      |      |
+| 操作系统原理             | [fly-lovest/HUST-CS-Operating-system-principle](https://github.com/fly-lovest/HUST-CS-Operating-system-principle) |        |        |      |      |
+| 操作系统原理实验         | [fly-lovest/HUST-CS-Operating-system-principle](https://github.com/fly-lovest/HUST-CS-Operating-system-principle) |        |        |      |      |
+| 计算机通信与网络         | [fly-lovest/HUST-CS-Computer-Communication-and-Networking](https://github.com/fly-lovest/HUST-CS-Computer-Communication-and-Networking) |        |        |      |      |
+| 计算机通信与网络实践     | [fly-lovest/HUST-CS-Computer-Communication-and-Networking](https://github.com/fly-lovest/HUST-CS-Computer-Communication-and-Networking) |        |        |      |      |
+| 计算机组成原理           | [fly-lovest/HUST-CS-Principles-of-Computer-Composition](https://github.com/fly-lovest/HUST-CS-Principles-of-Computer-Composition) |        |        |      |      |
+| 计算机组成原理实验       | [fly-lovest/HUST-CS-Principles-of-Computer-Composition](https://github.com/fly-lovest/HUST-CS-Principles-of-Computer-Composition) |        |        |      |      |
 | 软件工程                 |                                                              |        |        |      |      |
 | 算法设计与分析           |                                                              |        |        |      |      |
 | 操作系统课程设计         |                                                              |        |        |      |      |
 | 硬件综合训练             |                                                              |        |        |      |      |
 | 编译原理                 | [fly-lovest/HUST-CS-Compilation-Principle](https://github.com/fly-lovest/HUST-CS-Compilation-Principle) |   ✅    |   ✅    |  ❌   |  ✅   |
 | 编译原理实验             | [fly-lovest/HUST-CS-Compilation-Principle](https://github.com/fly-lovest/HUST-CS-Compilation-Principle) |   ❌    |   ❌    |  ✅   |  ✅   |
-| 数据库系统原理           |                                                              |        |        |      |      |
-| 数据库系统原理实践       |                                                              |        |        |      |      |
+| 数据库系统原理           | [fly-lovest/HUST-CS-Database-system-principle](https://github.com/fly-lovest/HUST-CS-Database-system-principle) |        |        |      |      |
+| 数据库系统原理实践       | [fly-lovest/HUST-CS-Database-system-principle](https://github.com/fly-lovest/HUST-CS-Database-system-principle) |        |        |      |      |
 | 计算机系统结构           |                                                              |        |        |      |      |
 | 系统能力培养综合实践——PA |                                                              |        |        |      |      |
 
