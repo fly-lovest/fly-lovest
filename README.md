@@ -26,20 +26,20 @@ PS. 所参照的项目如若出现内容错误或运行问题，可在**出现�
 | **课程名**               | **链接**                                                     | **复习题** | **作业题** | **实验** | **其他** |
 | 操作系统原理             | [fly-lovest/HUST-CS-Operating-system-principle](https://github.com/fly-lovest/HUST-CS-Operating-system-principle) |            |            |          |          |
 | 操作系统原理实验         | [fly-lovest/HUST-CS-Operating-system-principle](https://github.com/fly-lovest/HUST-CS-Operating-system-principle) |            |            |          |          |
-| 计算机通信与网络         | [fly-lovest/HUST-CS-Computer-Communication-and-Networking](https://github.com/fly-lovest/HUST-CS-Computer-Communication-and-Networking) |            |            |          |          |
-| 计算机通信与网络实践     | [fly-lovest/HUST-CS-Computer-Communication-and-Networking](https://github.com/fly-lovest/HUST-CS-Computer-Communication-and-Networking) |            |            |          |          |
+| 计算机通信与网络         | [fly-lovest/HUST-CS-Computer-Communication-and-Networking](https://github.com/fly-lovest/HUST-CS-Computer-Communication-and-Networking) |     ✅      |     ✅      |    ❌     |    ✅     |
+| 计算机通信与网络实践     | [fly-lovest/HUST-CS-Computer-Communication-and-Networking](https://github.com/fly-lovest/HUST-CS-Computer-Communication-and-Networking) |     ❌      |     ❌      |    ✅     |    ✅     |
 | 计算机组成原理           | [fly-lovest/HUST-CS-Principles-of-Computer-Composition](https://github.com/fly-lovest/HUST-CS-Principles-of-Computer-Composition) |            |            |          |          |
 | 计算机组成原理实验       | [fly-lovest/HUST-CS-Principles-of-Computer-Composition](https://github.com/fly-lovest/HUST-CS-Principles-of-Computer-Composition) |            |            |          |          |
 | 软件工程                 | [fly-lovest/HUST-CS-Software-Engineering](https://github.com/fly-lovest/HUST-CS-Software-Engineering) |     ❌      |     ❌      |    ✅     |    ❌     |
 | 算法设计与分析           | [fly-lovest/HUST-CS-Algorithm-design-and-analysis](https://github.com/fly-lovest/HUST-CS-Algorithm-design-and-analysis) |     ✅      |     ✅      |    ❌     |    ❌     |
-| 操作系统课程设计         |                                                              |            |            |          |          |
-| 硬件综合训练             |                                                              |            |            |          |          |
+| 操作系统课程设计         | [fly-lovest/HUST-CS-Operating-system-course-design](https://github.com/fly-lovest/HUST-CS-Operating-system-course-design) |            |            |          |          |
+| 硬件综合训练             | [fly-lovest/HUST-CS-Comprehensive-hardware-training](https://github.com/fly-lovest/HUST-CS-Comprehensive-hardware-training) |            |            |          |          |
 | 编译原理                 | [fly-lovest/HUST-CS-Compilation-Principle](https://github.com/fly-lovest/HUST-CS-Compilation-Principle) |     ✅      |     ✅      |    ❌     |    ✅     |
 | 编译原理实验             | [fly-lovest/HUST-CS-Compilation-Principle](https://github.com/fly-lovest/HUST-CS-Compilation-Principle) |     ❌      |     ❌      |    ✅     |    ✅     |
 | 数据库系统原理           | [fly-lovest/HUST-CS-Database-system-principle](https://github.com/fly-lovest/HUST-CS-Database-system-principle) |     ✅      |     ✅      |    ❌     |    ❌     |
 | 数据库系统原理实践       | [fly-lovest/HUST-CS-Database-system-principle](https://github.com/fly-lovest/HUST-CS-Database-system-principle) |     ❌      |     ❌      |    ✅     |    ✅     |
 | 计算机系统结构           | [fly-lovest/HUST-CS-Computer-System-Architecture](https://github.com/fly-lovest/HUST-CS-Computer-System-Architecture) |     ✅      |     ✅      |    ✅     |    ❌     |
-| 系统能力培养综合实践——PA |                                                              |            |            |          |          |
+| 系统能力培养综合实践——PA | [fly-lovest/HUST-CS-Systematic-capacity-building-integrated-practice](https://github.com/fly-lovest/HUST-CS-Systematic-capacity-building-integrated-practice) |            |            |          |          |
 
 
 
@@ -49,7 +49,7 @@ PS. 所参照的项目如若出现内容错误或运行问题，可在**出现�
 
 
 | 课程名             | 链接                                                         | 复习题 | 作业题 | 实验 | 其他 |
-| :----------------- | :----------------------------------------------------------- | :----: | :----: | :--: | :--: |
+| ------------------------ | :----------------------------------------------------------- | :--------: | :--------: | :------: | :------: |
 | 计算思维           | [fly-lovest/HUST-CS-Professional-Elective-Courses-1](https://github.com/fly-lovest/HUST-CS-Professional-Elective-Courses-1) |   ✅    |   ❌    |  ❌   |  ✅   |
 | 大数据导论         | [fly-lovest/HUST-CS-Professional-Elective-Courses-1](https://github.com/fly-lovest/HUST-CS-Professional-Elective-Courses-1) |   ❌    |   ❌    |  ✅   |  ❌   |
 | 人工智能导论       | [fly-lovest/HUST-CS-Professional-Elective-Courses-1](https://github.com/fly-lovest/HUST-CS-Professional-Elective-Courses-1) |   ❌    |   ❌    |  ✅   |  ❌   |
@@ -67,7 +67,7 @@ PS. 所参照的项目如若出现内容错误或运行问题，可在**出现�
 ## 通识课程
 
 | 课程名                 | 链接                                                         | 复习题 | 作业题 | 实验 | 其他 |
-| :--------------------- | :----------------------------------------------------------- | :----: | :----: | :--: | :--: |
+| ------------------------ | :----------------------------------------------------------- | :--------: | :--------: | :------: | :------: |
 | 综合英语（一）、（二） | [fly-lovest/HUST-CS-General-English](https://github.com/fly-lovest/HUST-CS-General-English) |   ❌    |   ✅    |  ❌   |  ✅   |
 | 线性代数               | [fly-lovest/HUST-CS-Mathematics-and-Physics](https://github.com/fly-lovest/HUST-CS-Mathematics-and-Physics) |   ✅    |   ❌    |  ❌   |  ✅   |
 | 大学物理（一）（二）   | [fly-lovest/HUST-CS-Mathematics-and-Physics](https://github.com/fly-lovest/HUST-CS-Mathematics-and-Physics) |   ✅    |   ✅    |  ❌   |  ❌   |
