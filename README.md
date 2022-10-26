@@ -32,7 +32,7 @@ PS. 所参照的项目如若出现内容错误或运行问题，可在**出现�
 | 计算机组成原理实验       | [fly-lovest/HUST-CS-Principles-of-Computer-Composition](https://github.com/fly-lovest/HUST-CS-Principles-of-Computer-Composition) |            |            |          |          |
 | 软件工程                 | [fly-lovest/HUST-CS-Software-Engineering](https://github.com/fly-lovest/HUST-CS-Software-Engineering) |     ❌      |     ❌      |    ✅     |    ❌     |
 | 算法设计与分析           | [fly-lovest/HUST-CS-Algorithm-design-and-analysis](https://github.com/fly-lovest/HUST-CS-Algorithm-design-and-analysis) |     ✅      |     ✅      |    ❌     |    ❌     |
-| 操作系统课程设计         | [fly-lovest/HUST-CS-Operating-system-course-design](https://github.com/fly-lovest/HUST-CS-Operating-system-course-design) |            |            |          |          |
+| 操作系统课程设计         | [fly-lovest/HUST-CS-Operating-system-course-design](https://github.com/fly-lovest/HUST-CS-Operating-system-course-design) |     ❌      |     ❌      |    ✅     |    ❌     |
 | 硬件综合训练             | [fly-lovest/HUST-CS-Comprehensive-hardware-training](https://github.com/fly-lovest/HUST-CS-Comprehensive-hardware-training) |            |            |          |          |
 | 编译原理                 | [fly-lovest/HUST-CS-Compilation-Principle](https://github.com/fly-lovest/HUST-CS-Compilation-Principle) |     ✅      |     ✅      |    ❌     |    ✅     |
 | 编译原理实验             | [fly-lovest/HUST-CS-Compilation-Principle](https://github.com/fly-lovest/HUST-CS-Compilation-Principle) |     ❌      |     ❌      |    ✅     |    ✅     |
