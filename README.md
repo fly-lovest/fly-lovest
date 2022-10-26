@@ -24,8 +24,8 @@ PS. 所参照的项目如若出现内容错误或运行问题，可在**出现�
 | 汇编语言程序设计实践     | [fly-lovest/HUST-CS-Assembly-Language](https://github.com/fly-lovest/HUST-CS-Assembly-Language) |     ❌      |     ❌      |    ✅     |    ❌     |
 | 信号与线性系统           | [fly-lovest/HUST-CS-Signal-and-Linear-Systems](https://github.com/fly-lovest/HUST-CS-Signal-and-Linear-Systems) |     ✅      |     ✅      |    ❌     |    ❌     |
 | **课程名**               | **链接**                                                     | **复习题** | **作业题** | **实验** | **其他** |
-| 操作系统原理             | [fly-lovest/HUST-CS-Operating-system-principle](https://github.com/fly-lovest/HUST-CS-Operating-system-principle) |            |            |          |          |
-| 操作系统原理实验         | [fly-lovest/HUST-CS-Operating-system-principle](https://github.com/fly-lovest/HUST-CS-Operating-system-principle) |            |            |          |          |
+| 操作系统原理             | [fly-lovest/HUST-CS-Operating-system-principle](https://github.com/fly-lovest/HUST-CS-Operating-system-principle) |     ✅      |     ✅      |    ❌     |    ❌     |
+| 操作系统原理实验         | [fly-lovest/HUST-CS-Operating-system-principle](https://github.com/fly-lovest/HUST-CS-Operating-system-principle) |     ❌      |     ❌      |    ✅     |    ❌     |
 | 计算机通信与网络         | [fly-lovest/HUST-CS-Computer-Communication-and-Networking](https://github.com/fly-lovest/HUST-CS-Computer-Communication-and-Networking) |     ✅      |     ✅      |    ❌     |    ✅     |
 | 计算机通信与网络实践     | [fly-lovest/HUST-CS-Computer-Communication-and-Networking](https://github.com/fly-lovest/HUST-CS-Computer-Communication-and-Networking) |     ❌      |     ❌      |    ✅     |    ✅     |
 | 计算机组成原理           | [fly-lovest/HUST-CS-Principles-of-Computer-Composition](https://github.com/fly-lovest/HUST-CS-Principles-of-Computer-Composition) |            |            |          |          |
